@@ -1,4 +1,4 @@
-# 托尼的前端历练
+# 拖泥的前端历练
 
 ## 通用技能
 
@@ -65,9 +65,9 @@
 
   服务器基础知识、Nginx服务器和其他WEB服务器。
 
-* **AJAX：**
+* **AJAX/Fetch：**
 
-  Ajax请求、兼容性处理方法、缓存问题、XML、JSON和JSON解析、数据绑定和模板技术、JSONP、跨域技术、图片预读和懒加载等性能优化。
+  Ajax/Fetch请求、兼容性处理方法、缓存问题、XML、JSON和JSON解析、数据绑定和模板技术、JSONP、跨域技术、图片预读和懒加载等性能优化。
 
 ### 第四阶段：JS进阶
 
@@ -133,4 +133,4 @@
 
 ## PS
 以上仅为想起来啥就写啥的个人非完全经历，仅供参考～～～<br/>
-附《Tony的前端技术历练图谱》<br/> ![Tony&#x7684;&#x524D;&#x7AEF;&#x6280;&#x672F;&#x5386;&#x7EC3;&#x56FE;&#x8C31;](https://cdn.freedomlove.me/upload/Tony的前端技术历练.jpg)
+附[《Tony的前端技术历练图谱》](https://cdn.freedomlove.me/upload/Tony的前端技术历练.jpg)<br/> ![Tony&#x7684;&#x524D;&#x7AEF;&#x6280;&#x672F;&#x5386;&#x7EC3;&#x56FE;&#x8C31;](https://cdn.freedomlove.me/upload/Tony的前端技术历练.jpg)
